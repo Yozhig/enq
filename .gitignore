@@ -1,0 +1,5 @@
+/.erlang.mk/
+/*.d
+*.o
+/ebin/
+/priv/
